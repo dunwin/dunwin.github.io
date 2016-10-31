@@ -18,6 +18,6 @@ Format: US Letter (8.5 x 11), hand typeset, preferably cut from newspapers and m
 ## Sources
 
 - [Farewell - ETAOIN SHRDLU - 1978](https://vimeo.com/127605643)
-- [Berkshire HomeStyle Magazine](http://www.berkshirehomestyle.com/joomla/)
-- [HGTV Magazine](http://www.hgtv.com/design/packages/hgtv-magazine)
-- [Better Homes and Gardens Magazine](http://www.bhg.com/better-homes-and-garden-magazine/)
+- [Berkshire HomeStyle (Magazine)](http://www.berkshirehomestyle.com/joomla/)
+- [HGTV (Magazine)](http://www.hgtv.com/design/packages/hgtv-magazine)
+- [Better Homes and Gardens (Magazine)](http://www.bhg.com/better-homes-and-garden-magazine/)
