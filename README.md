@@ -2,4 +2,4 @@
 ## Academic and Personal Work
 
 ### Projects
- - [Markup]()
+ - [Type II Markup]()
