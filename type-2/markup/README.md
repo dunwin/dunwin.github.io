@@ -2,7 +2,7 @@
 
 ## About
 
-Purpose: PostScript, IDML, PDF, HTML/CSS
+Purpose: PostScript, IDML, HTML/CSS
 
 Format: US Letter (8.5 x 11), hand typeset, preferably cut from newspapers and magazine, designed by hand, paste-up, photocopier, sans-computer/software, etc.
 
