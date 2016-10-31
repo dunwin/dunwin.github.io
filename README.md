@@ -1,5 +1,7 @@
 # dunwin.github.io
-## Academic and Personal Work
+## Academic & Personal Work
 
 ### Projects
- - [Type II Markup]()
+
+#### Type 2
+ - [Markup](https://dunwin.github.io/type-2/markup)
