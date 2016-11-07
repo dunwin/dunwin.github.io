@@ -5,3 +5,4 @@
 
 #### Type 2
  - [Markup](https://dunwin.github.io/type-2/markup)
+ - [Responsive](https://dunwin.github.io/type-2/responsive)
