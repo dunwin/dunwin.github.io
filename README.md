@@ -4,5 +4,5 @@
 ### Projects
 
 #### Type 2
- - [Markup](https://dunwin.github.io/type-2/markup)
- - [Responsive](https://dunwin.github.io/type-2/responsive)
+ - [Markup](https://github.com/dunwin/dunwin.github.io/tree/master/type-2/markup)
+ - [Responsive](https://github.com/dunwin/dunwin.github.io/tree/master/type-2/responsive)
