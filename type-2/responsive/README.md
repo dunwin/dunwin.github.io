@@ -31,14 +31,14 @@ Links should be easy to spot without relying on color. To find a link, users sho
 
 In the physical world you can’t always control which colors appear next to one another: a red apple may have dropped and nestled itself into some green grass. However, we can control the colors we use to design our website. The following color combinations should be avoided where possible:
 
-- [green/red]
-- [green/brown]
-- [blue/purple]
-- [green/blue]
-- [light green/yellow]
-- [blue/grey]
-- [green/grey]
-- [green/black]
+- green/red
+- green/brown
+- blue/purple
+- green/blue
+- light green/yellow
+- blue/grey
+- green/grey
+- green/black
 
 ### Form Placeholders
 
@@ -56,9 +56,9 @@ Success and error messages are often colored green and red respectively. Most co
 
 Denoting required fields with color is a problem because some people may not be able to see the differences. Instead, you could consider:
 
-- [Marking required fields with an asterisk.]
-- [Marking required fields with “required.”]
-- [Where possible, remove optional fields altogether.]
+- Marking required fields with an asterisk.
+- Marking required fields with “required.”
+- Where possible, remove optional fields altogether.
 
 ### Graphs
 
