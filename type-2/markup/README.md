@@ -1,6 +1,6 @@
 # Markup
 
-[Webpage](https://dunwin.github.io/type-2/markup/web.html)
+[Markup Webpage](https://dunwin.github.io/type-2/markup/web.html)
 
 ## About
 
