@@ -1,0 +1,184 @@
+html {
+  font: 100%/1 open-sans, sans-serif;
+  }
+
+body {
+  width: 90%;
+  max-width: 68em;
+  margin: 0 auto; /* centered */
+  }
+
+img {
+    padding-bottom: 10%;
+		max-width: 80%;
+		height: auto;
+		display: block;
+    margin-left: auto;
+    margin-right: auto;
+		}
+    }
+
+
+main {
+/*   background: #fff; */
+  padding: 1em;
+  }
+
+
+	@font-face {
+    font-family: 'open-sans';
+    src: url('fonts/opensans-regular-webfont.woff2') format('woff2'),
+         url('fonts/opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+	}
+
+
+@media (min-width: 30em) {
+
+/*
+body {
+  font-size: 105%;
+  }
+ */
+
+h1 {
+  font-size: 2em;
+  line-height: 1.25;
+  margin-top: .28em;
+  margin-bottom: .28;
+  margin-right: 25%;
+  padding-bottom: .7em;
+  }
+
+h3 {
+  font-size: .6em;
+  line-height: 1.167;
+  margin-bottom: .28;
+  }
+
+
+  }
+
+
+@media (min-width: 40em) {
+
+body {
+  font-size: 107.14285%;
+  background: #eee;
+  }
+
+main {
+  margin: 0 5%;
+  background: #fff;
+  padding-left: 3.5em;
+  padding-right: 3.5em;
+  }
+
+  }
+
+
+@media (min-width: 60em) {
+
+body {
+/*   font-size: 114.2857%; */
+  font-size: 117%;
+  background: #eee;
+  }
+
+main {
+  margin: 0 15%;
+  background: #fff;
+  padding-left: 3.5em;
+  padding-right: 3.5em;
+  }
+
+h1 {
+/*   width: 90%; */
+  }
+
+  }
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  }
+
+/* typographic styles */
+
+/*
+
+scale
+1/4: .35, .7, 1.05, 1.4
+1/5: .28, .56, .84, 1.12, 1.4
+
+*/
+
+p {
+  font: normal 1.1em/1.4 open-sans, sans-serif;
+  margin: .84em 0;
+  padding-bottom: 1.4em;
+  line-height: 1.5;
+  }
+
+h1 {
+  font-size: 1.6em;
+  line-height: 1.25;
+  margin-top: 1em;
+  margin-bottom: .28;
+  margin-right: 25%;
+  padding-bottom: .7em;
+  }
+
+
+h2 {
+  font-size: 1.68em;
+  line-height: 1.167;
+  margin-bottom: .28;
+  }
+
+h3 {
+  font-size: 1.32em;
+  line-height: 1.167;
+  margin-bottom: .28;
+  }
+
+ul {
+  list-style: none;
+  font: normal 1em/1.4 open-sans, sans-serif;
+  margin: .84em 0;
+  margin-left: .2em;
+  padding-bottom: 1.4em;
+  line-height: 1.5em;
+  }
+
+    a {
+      font: normal 1em/1.4 open-sans, sans-serif;
+      }
+
+    a:link {
+      color: #000;
+      }
+
+    a:visited {
+      color: #000;
+      }
+
+    a:hover {
+      color: #000;
+      padding-bottom: 1em;
+      }
+
+    a:active {
+      color: #222;
+      }
+
