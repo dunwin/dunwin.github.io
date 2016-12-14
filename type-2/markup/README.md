@@ -12,6 +12,7 @@ Format: US Letter (8.5 x 11), hand typeset, preferably cut from newspapers and m
 - [Original](https://github.com/dunwin/dunwin.github.io/blob/master/type-2/markup/its-a-story-original.png)
 - [PostScript](https://github.com/dunwin/dunwin.github.io/blob/master/type-2/markup/its-a-story.ps)
 - [InDesign](https://github.com/dunwin/dunwin.github.io/blob/master/type-2/markup/its-a-story.idml)
+- [PDF](https://github.com/dunwin/dunwin.github.io/blob/master/type-2/markup/its-a-story.pdf)
 - [HTML/CSS](https://github.com/dunwin/dunwin.github.io/blob/master/type-2/markup/web.html)
 
 
