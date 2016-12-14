@@ -1,6 +1,6 @@
 # Responsive
 
-[Responsive Website](dunwin.github.io/type-2/responsive/web.html)
+[Responsive Website](https://dunwin.github.io/type-2/responsive/web.html)
 
 ## Featured Content
 
