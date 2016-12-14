@@ -1,5 +1,7 @@
 # Fallback
 
+[Fallback Webpage](https://dunwin.github.io/type-2/fallback/web.html)
+
 ## Typefaces
 
 - Bodoni vs Bodoni XT
